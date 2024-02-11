@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -17,3 +19,4 @@
 
 <a href="https://dev-daejlee.tistory.com/">
 <img alt='blog' src ="https://img.shields.io/badge/Tistory-gray.svg?&style=for-the-badge"/></a>
+</div>
