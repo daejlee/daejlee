@@ -11,7 +11,7 @@
 
 # Contact
 
-<a href="mailto:savif4991@gmail.com"><img alt='gmail' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<a href="mailto:savif4991@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black
 "/></a>
 
 # Blog
