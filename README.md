@@ -1,9 +1,3 @@
-# Stats
-
-[![STATS](https://github-readme-stats.vercel.app/api/?username=daejlee&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daejlee)](https://github.com/anuraghazra/github-readme-stats)
-
 # Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -17,6 +11,10 @@
 
 # Contact
 
-<a href="mailto:savif4991@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black"/></a>
+<a href="mailto:savif4991@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+"/></a>
 
 # Blog
+
+<a href="https://dev-daejlee.tistory.com/">
+<img src ="https://img.shields.io/badge/Tistory-gray.svg?&style=for-the-badge"/></a>
